@@ -1,2 +1,2 @@
 # Test
-My first repository test - edited
+My first repository test
